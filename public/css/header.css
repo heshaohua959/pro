@@ -1,0 +1,10 @@
+#top_img{
+    background: #c80000;
+    min-width: 1200px;
+    height: 40px;
+}
+#header_title{
+    background: #f3f3f3;
+    height: 25px;
+    min-width: 1200px;
+}
